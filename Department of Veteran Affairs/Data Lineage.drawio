@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T03:38:34.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="j3B7w_oeBeyuEFlAjp9o" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T03:58:38.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mTRmxzJDbd9cCd8F_Bjk" version="17.1.1" type="github">
   <diagram id="uhJDiFjojeLYOvnc-QZb" name="Page-1">
-    <mxGraphModel dx="946" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-1" value="Contact Call Summary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-2" value="Contact Call Class Summary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-3" value="Call Duration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q9ZCgjq4IuA43bu1W6Ww-5" target="Q9ZCgjq4IuA43bu1W6Ww-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-5" value="Contact Call Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q9ZCgjq4IuA43bu1W6Ww-6" target="Q9ZCgjq4IuA43bu1W6Ww-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-6" value="Code Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-7" value="Staging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-8" value="Reporting Tables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-9" value="Reporting Views" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-13" value="Average Handel Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-14" value="Abandonment Rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-15" value="Average Speed of Answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-16" value="Contacts Presented" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-19" value="Contact Call Summary has every Session, Sequence, Index (per Unique Queue) and Ranks each Queue based on Start Time. Note, this entity identifies slightly more Queues than Contact Queue Detail which drives the live reports," style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-20" value="Contact Call Class Summary pulls in the initial Queue, but, take the first Start Time and the Last End time per Session. This is the Veterans perspective." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-21" value="Contact Call Duration looks at&amp;nbsp;every Session and Sequence, and Index across all primary entities." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="850" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ZCgjq4IuA43bu1W6Ww-23" value="The Code Table contains thousands of entires pulled from the Cisco documentation and allows a data driven transformation of a Code, e.g., &quot;1&quot;, to a Code Value, e.g., &quot;Talking&quot;." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="190" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

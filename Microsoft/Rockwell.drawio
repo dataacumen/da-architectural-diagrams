@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T17:37:37.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" version="17.5.0" etag="YkrV0CN3rL7wO7pBk5UL" type="github"><diagram id="qEIuCi5BbrqrOCG_8MmK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-09T17:37:47.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="KvcXD4spOxXU81z4RfGn" version="17.5.0" type="github">
+  <diagram id="qEIuCi5BbrqrOCG_8MmK" name="Page-1">
+    <mxGraphModel dx="3342" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-2" target="9OdMVhta7JXRHjlNoi8T-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-2" value="James Wang&lt;br&gt;Director Specialist&lt;br&gt;STU Biz Apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="775" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-3" value="Lauren Bowen&lt;br&gt;SCM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="775" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-5" target="9OdMVhta7JXRHjlNoi8T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-5" value="Bob Doustdar&lt;br&gt;Director Manager&lt;br&gt;STU Biz Apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="775" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-7" target="9OdMVhta7JXRHjlNoi8T-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-7" value="Ed Luck&lt;br&gt;CTO&lt;br&gt;ATU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="575" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-9" target="9OdMVhta7JXRHjlNoi8T-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-9" value="Mark Tanin&lt;br&gt;CEO&lt;br&gt;ATU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="435" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-11" target="9OdMVhta7JXRHjlNoi8T-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-11" value="Dan Burke&lt;br&gt;TS&lt;br&gt;STU Operations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-12" value="Bruno Ierullo&lt;br&gt;Director Specialist" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="495" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-13" value="Jason Harder&lt;br&gt;Account Director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="495" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-14" value="Douglas Hatfield&lt;br&gt;Account Director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="495" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-16" target="9OdMVhta7JXRHjlNoi8T-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-16" value="Deepak Palled&lt;br&gt;Principal PM Manager Customer Insights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-17" value="Ayushman Jain&lt;br&gt;Principal PM Manager Marketing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-18" value="Ryan Jones&lt;br&gt;Partner PM Director Customer Insights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-20" target="9OdMVhta7JXRHjlNoi8T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-20" value="Jenee Winter&lt;br&gt;Director TS Manager&lt;br&gt;STU Biz Apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="995" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-22" target="9OdMVhta7JXRHjlNoi8T-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-22" value="Ronald White&lt;br&gt;TS&lt;br&gt;STU Biz Apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="995" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-23" value="Brian Remmel&lt;br&gt;Director Specilasist Manager&lt;br&gt;STU Biz Apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="995" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-24" value="Lori Harlow&lt;br&gt;Direcot Sales&lt;br&gt;ATU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="505" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-26" target="9OdMVhta7JXRHjlNoi8T-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-26" value="Debbie Jefferson&lt;br&gt;TS&lt;br&gt;STU Operations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-28" target="9OdMVhta7JXRHjlNoi8T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-28" value="Sandra Larrea Director TS Manager&lt;br&gt;STU Operations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=1;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OdMVhta7JXRHjlNoi8T-2" target="9OdMVhta7JXRHjlNoi8T-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9OdMVhta7JXRHjlNoi8T-30" value="MCS, Jason overall, Doug, higher level, senior seller, came from a parther and Bruno is a seller on the services side. North Star is under way, DRX is one of many solution pilars They are defining the scope with the cusomter." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="235" y="630" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

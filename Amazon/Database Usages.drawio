@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T23:04:05.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="AlCbq44OrxKhb0Ed-2NA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T23:09:53.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="KAckWUXefgnC1Uqvhsn-" version="20.0.1" type="github" pages="2">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS-2019">
-    <mxGraphModel dx="5372" dy="3750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3126" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,6 +220,14 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-66" value="Cross Cutting" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1480" y="-208.75" width="1272.5" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ViivsHG5pZBYqzmm79ED" name="AWS-2021">
+    <mxGraphModel dx="1426" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

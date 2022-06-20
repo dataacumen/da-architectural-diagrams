@@ -1,1 +1,67 @@
-<mxfile host="Electron" modified="2022-06-20T21:36:24.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/19.0.3 Chrome/102.0.5005.63 Electron/19.0.3 Safari/537.36" etag="RAaUfu6Z88PzQUVwDA1C" version="19.0.3" type="device"><diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">5ZnNbts4EICfxthTAlGMZfvoON0URdPdwkGLngpaGktEKFKl6MjZp1+OSMmWpbRdIFkLyCEROfwbfjO0OKMJXeX7W82K7E4lICZhkOwn9GYShpSEkX2g5MlJwqtZ6CSp5omTkYNgzf8BLwy8dMcTKDsdjVLC8KIrjJWUEJuOjGmtqm63rRLdVQuWQk+wjpnoS7/yxGReOguCQ8N74GnWLE2alpw1vb2gzFiiqiMRfTehK62UcaV8vwKB+Bowbtyfz7S2mmmQ5ncGrFO4S+4+hPt9xOMPH+cPcR5e+Fkemdj5Hd9nYAWfd7DD5yeW42NlLYvo2UbgUyj1UCJhY//BI+gn7LP+fBjAZT1KGhZjnxWrVbkBwzgWGI6unH6HXmvQjzw+Wn6FltXADNSr2b+d5D9qxQQvjevAZIKq1WpbGmXdV+1MK2z24lbH1g0rAQcp1FKynMvU+dCjZcmVLE9UVBIu1HZrSxrs8qUpL71NzVPjKVXGDawLFmO9ssdhQq8zkwtbI7ZorV9gS75P8ahcWhV4fKmtzyIbVJde1+eGBljC80KmtrRRO5lA8nHTTLQVvHh/VP5iyzjEGxK0gf2zHkJav7NHFlQOpjadH3BBpo2z+vMazXy9OnL+hZdlx35/5YXMH7i0nf3gkrbgvXLYQzVfx8HsVqbf4uL+63Q5u/1uBjz0jnG51bWfndhAO1iezi8s8jLApl1gIR0AFg4Ai16LV9jnpaQS3GrjThjoEXCji7Fxoz/jthIctzY+bu25Oxu3qx63G2bYCFCR0bnYtIdqWRSCxwzfOSMkRqbnJhb1iP2tobQbGiuy6NzEZj1i67+WPVB2InuDhl9DYmXhrtVbvkewL0JtTk78bIDafADa/LWgzfu//TzW6vhKem5PW5xcNMjQzex/9bTF+KHNaRfa4tzMGscfM7TZ6ek8u6eRgRhgbNROXS08+7uT9COBefBH2UNlN21OYlWj1QOslFDaSqSNfjHW5EKciJjgqbTV2EKyUQW9RoT2OiOWviHnSSKee8scTITh61ZJ49M/JGrqXknyEgYidNa1EB24D0YDBqKvZqB+yLF4ywZqrwGjMVA/tiFv2EDzYGz26QdU0Ru2D5nSsRmoH7/dZxwTqwXokpemzsJuLfEwQCWCJ2C6zru6tItxnUulMZurMAFrrbe0HAINoo4By4wXtroBUwFgOpf5kFrVKWiXHE6YwZTvpS3e7LTL9vq5Dc99opnjGlWd9nXZag1M4BJMtBOZDDSmkiv3UFKgAWhtOpkofca88Mv8BF91Peii/ZxxfI0Zis3au81/cCJbPXz+qNuOPiPRd/8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T21:42:36.283Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="oLr3j9XiUlnM65ocjCUY" version="20.0.1" type="github">
+  <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
+    <mxGraphModel dx="3126" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SgeMdMJ2xx6icJL8kcm2-1" value="This persisted for 30 years with this sort of 1:1 relationship between applicatoin and datbase. During this time, it was all realtional and there were only 3 vendors." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1310" y="-130" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-1" value="Mainframe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-2" value="Monolith Server" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-3" value="Monolith Client" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-4" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-5" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-6" value="Presentation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-7" value="SOA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-8" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-9" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-10" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-710" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-11" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-12" value="80&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1370" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-13" value="90&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1160" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-14" value="10&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riSc07GngYcpTW5A7G_t-15" value="60&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="-1530" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-2" value="Not new but in a self service environment the level of entry is too much. Today, it has reached the database by virtue of services like Amazon RDS." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-130" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-3" value="History Lesson" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="400" width="960" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-4" value="History Lesson" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="400" width="960" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

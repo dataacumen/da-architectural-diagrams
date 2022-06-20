@@ -1,113 +1,224 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T21:59:13.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="-Tg-PWI4bDupeNTtgIYA" version="20.0.1" type="github">
-  <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
-    <mxGraphModel dx="3126" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-06-20T23:04:05.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="AlCbq44OrxKhb0Ed-2NA" version="20.0.1" type="github">
+  <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS-2019">
+    <mxGraphModel dx="5372" dy="3750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SgeMdMJ2xx6icJL8kcm2-1" value="This persisted for 30 years with this sort of 1:1 relationship between application and database. During this time, it was all relational and there were only 3 vendors." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1310" y="-130" width="190" height="140" as="geometry" />
+          <mxGeometry x="-1310" y="-121" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-1" value="Mainframe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-1" value="Mainframe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="239" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-2" value="Monolith Server" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-2" value="Monolith Server" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="239" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-3" value="Monolith Client" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-3" value="Monolith Client" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="149" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-4" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1190" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-4" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="239" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-5" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1190" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-5" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="159" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-6" value="Presentation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1190" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-6" value="Presentation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="69" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-7" value="SOA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-820" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-7" value="SOA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="169" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-8" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="170" width="100" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-8" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="179" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-9" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="90" width="100" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-9" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="99" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-10" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="170" width="100" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-10" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-710" y="179" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riSc07GngYcpTW5A7G_t-11" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="250" width="100" height="60" as="geometry" />
+        <mxCell id="riSc07GngYcpTW5A7G_t-11" value="Micro Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="259" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="riSc07GngYcpTW5A7G_t-12" value="80&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1370" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1370" y="339" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riSc07GngYcpTW5A7G_t-13" value="90&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1160" y="339" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riSc07GngYcpTW5A7G_t-14" value="10&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-800" y="339" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riSc07GngYcpTW5A7G_t-15" value="60&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="-1530" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1530" y="339" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-2" value="Not new but in a self service environment the level of entry is too much. Today, it has reached the database by virtue of services like Amazon RDS." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="-130" width="190" height="140" as="geometry" />
+          <mxGeometry x="-960" y="-121" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-3" value="History Lesson" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="400" width="960" height="30" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-3" value="History Lesson" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="409" width="960" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-4" value="Types of Database" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="400" width="1080" height="30" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-4" value="Types of Database" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="410" width="1510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-6" value="&lt;h1&gt;The Question&lt;/h1&gt;&lt;p&gt;Why are there so many database in the industry today? Start with the history lesson. General storage, general compute not longer works today, but Why? The Micro Service architecture. It is not longer abstract and demands the right tool for the right job.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="440" width="480" height="250" as="geometry" />
+          <mxGeometry x="-1550" y="449" width="480" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-7" value="Relational" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-7" value="Relational" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-8" value="If you do not know all of the question you are going to ask but you want to make sure your responses are strongly consistent down to the data type, this works.&lt;br&gt;&lt;br&gt;Aurora, RDS, etc." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="-460" y="10" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-9" value="&lt;h1&gt;The Next Question&lt;/h1&gt;&lt;p&gt;What is an easy way to come up with a data strategy? Do not try to do a line by line comparison and find one to rule them all. Think of the use case. The AWS strategy is simple, always work backward from what the customer is asking you to do.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="440" width="480" height="250" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-9" value="&lt;h1&gt;The Next Question&lt;/h1&gt;&lt;p&gt;What is an easy way to come up with a data strategy? Do not try to do a line by line comparison and find one to rule them all. Think of the use case. The AWS strategy is simple, always work backward from what the customer is asking you to do and give you the best and fully managed API&#39;s.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="450" width="480" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-10" value="Key Value" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-10" value="Key Value" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-11" value="Think Ride Share app. I could have 10, I could have 10M around the world with any device. The User could be the key, the value could be GPS.&lt;br&gt;&lt;br&gt;These are designed for horizontally scaling from day one." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="-240" y="10" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-12" value="Document" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-12" value="Document" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-13" value="Developers do not want to be a DBA, they do not want to predefined a schema, I want to create it on the fly as a JSON object and wan the DB to absorb it, document it, and let me get it back." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="-20" y="10" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-14" value="In Memory" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-14" value="In Memory" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-15" value="Think gaming leader board. Millions of users playing needs to be presented instantly without a table scan.&lt;br&gt;&lt;br&gt;Sorted Set in Redis." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="150" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="200" y="10" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-16" value="Graph" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-16" value="Graph" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-17" value="Highly connected data. Shoe manufacture, professional athletics, followers on social, trying to make recommendation on product or new to product. They are designed to traverse nodes and edges.&amp;nbsp;&lt;br&gt;&lt;br&gt;Neptune" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="360" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="410" y="10" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-18" value="Time Servies" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-18" value="Time Servies" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-19" value="Take the temperature when the door opens. Insert only, imputable. Vibration of a machine, something being picked out of a bin. At its core, the single primary access is one thing and one thing only, time.&lt;br&gt;&lt;br&gt;Time Stream" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="580" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="630" y="10" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-20" value="Ledger" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-20" value="Ledger" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-21" value="Once you write to it, you can never change it, and, I can prove it with cryptograph verifiability." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="800" y="70" width="190" height="190" as="geometry" />
+          <mxGeometry x="850" y="10" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-22" value="History Lesson" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="400" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-23" value="&lt;h1&gt;The Next Question&lt;/h1&gt;&lt;p&gt;What is really top of mind for all of AWS customers?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="440" width="480" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-24" value="Move to Managed" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-25" value="I am self managing something and I need to get out of undifferentiated heavy lifting (backups, patching, and monitoring).&amp;nbsp;&lt;br&gt;&lt;br&gt;Example, Mongo to DocDB, SQL Server to RDS Sql Server. MySQL or Postgres to Aurora." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="5" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-26" value="Break Free" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-27" value="OpenSource is real now. For years it was just talk. It is about moving full states, not one or two workloads. People are bothered more than ever about people changing licensing terms. SQL Server is doing this a lot." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1540" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-28" value="Modren Applications" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-29" value="&lt;div&gt;This is about reasoning against new requirements.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Users: 1M+&lt;/div&gt;&lt;div&gt;Data Volume: TB-PB-EB&lt;/div&gt;&lt;div&gt;Performance: Milli Micro Sec&lt;/div&gt;&lt;div&gt;Request Rate: 1M+&lt;/div&gt;&lt;div&gt;Access: Any Device&lt;/div&gt;&lt;div&gt;Scale: up-out-in&lt;/div&gt;&lt;div&gt;Economics: Pay as you go&lt;/div&gt;&lt;div&gt;Developer Access: Managed API&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1790" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-33" value="RDS&lt;br&gt;Aurora&lt;br&gt;ElasticCahce&lt;br&gt;DocDB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-34" value="RDS&lt;br&gt;Aurora" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-35" value="DynamoDB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-36" value="DocumentDB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-37" value="ElasticCache" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-38" value="Neptune" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-39" value="Time Stream" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="665" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-40" value="Amaon GLDB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-41" value="SCT&lt;br&gt;DMS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="-273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-43" value="Tolls like the Schema Conversion Tool (point at source and target and it gets you 80% of the way there). The Data Migration Service. Keep source only while you move to target." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-380" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-44" value="MAP&lt;br&gt;Pro Serve&lt;br&gt;Partners" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="-463" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-45" value="Programs, not well know. Migration Acceleration Program, all sorts of promotions and credits. Plenty of Amazon Professional Services, and the Consulting Partners." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-550" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-46" value="Aurora&lt;br&gt;RedShift" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-47" value="MAP&lt;br&gt;DB Feedom&lt;br&gt;Pro Serve&lt;br&gt;Partners" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="-463" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-49" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1841" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-50" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="-273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-51" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1841" y="-273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Know pattern with boundless scale." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-290" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-53" value="Zip Recruiter. Rich query experience over data set without knowing exact data set. Also, read heavy, replicate several for read and few for write 1:15 in this case." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-290" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-54" value="Liberty Mutual. You do not know all of your schema up front. you do not know all of the features and how they will evolve. Allows you to move quickly. Use JSON to store assets, policy, and customers that change over time. But I can still query across my documents." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-290" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-55" value="Ubisoft. In-Memory is optimized for latency over readability. When you need something as fast as can be. Think about Just Dance. The latency needs to be as low as possible. Redis Sorted Set works for this." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-290" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-56" value="Nike. How is this different from relational? You can query on connections between nouns; Customers and Athletes. Very efficient in detecting access patterns." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-290" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-57" value="Klarna. In paper, it is easy to see. In data, we rely on access control and auditing, but, at the end of the day, it still involves people. You can verify this cryptographically as a function of the database itself." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-290" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-60" value="&lt;h1&gt;The Right Tool for the Right Job&lt;/h1&gt;&lt;p&gt;The fender example. On a monolith. Migrated their product data, images, and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;purchase orders from SQL Servers to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DynamoDB, Amazon S3, AWS Lambda and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Amazon ElastiCache. Lowering costs by&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;20% and increased speed by 50% and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;migrated the whole system&amp;nbsp;to the cloud in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;less than six months.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-790" width="480" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-61" value="Break up the monolith. Examine the use case, move things strategically - do not recreate the monolith in the cloud." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1112.5" y="-860" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-63" value="&lt;h1&gt;Amazon Managed Cassandra Service&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Cassandra is Difficult to Manage&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Specialized expertise to set up, configure, and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;maintain infrastructure and software.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Scaling clusters is time-consuming, manual, and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;error-prone, so many over provision capacity.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Manual backups and error-prone restore processes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;to maintain integrity.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Unreliable upgrades with clunky rollback and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;debugging capabilities.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Amazon Managed (Apache) Cassandra Service&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Serverless, scalable, and cost-effective Apache Cassandra-compatible database service&lt;/li&gt;&lt;li&gt;Apache Cassandra-&lt;span style=&quot;background-color: initial;&quot;&gt;compatible&lt;/span&gt;&lt;/li&gt;&lt;li&gt;No clusters to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;manage&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Single-digit&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;millisecond&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;performance at scale&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Simple migration&lt;/li&gt;&lt;li&gt;CASSANDR&lt;/li&gt;&lt;li&gt;Use the same Cassandra&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;drivers and tools&lt;/span&gt;&lt;/li&gt;&lt;li&gt;No need to provision,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;configure, and operate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;large Cassandra&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;clusters&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Scale tables up and down&lt;/li&gt;&lt;li&gt;automatically&lt;/li&gt;&lt;li&gt;Virtually unlimited throughput&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and storage&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Simple migration for&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Cassandra databases on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;premises or on Amazon&lt;/span&gt;&lt;/li&gt;&lt;li&gt;EC2&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2156.25" y="-830" width="900" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-64" value="&lt;h1&gt;Federated Query for Amazon Athena&lt;/h1&gt;&lt;div&gt;&lt;b&gt;How to Query Data from Multiple Databases. It is not easy of course. Think about shipments&amp;nbsp;in Aurora. User personalization in Document&amp;nbsp;DB, Order Processing in Elastic Cache.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;This is too many moving parts? No, this is micro services. This is how things are getting built. Ok, but how do I support this?&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Run SQL queries on relational, non-relational, object, or&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;custom data sources; in the cloud or on premises&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;Open-source connectors for common data sources&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;Build connectors to custom data sources&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;Run connectors in AWS Lambda: No servers to manage&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;The spirit is not to replace the API&#39;s but to augment&amp;nbsp;it.&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2156.25" y="-280" width="900" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-65" value="&lt;h1&gt;Aurora Integration with Machine Learning&lt;/h1&gt;&lt;div&gt;&lt;b&gt;There is no Machine Learning without data. The workflow can be complicated.&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Select and train the model&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Create application code to read data from the database&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Query and format the data for the ML algorithm&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Call an ML service to run the algorithm&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Format the output&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;Amazon is making this easier via a&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;simple, optimized, and secure Aurora, Amazon SageMaker, and Amazon Comprehend integration.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ML predictions&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;on relational data&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Integration with&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Amazon&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;SageMaker &amp;amp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Amazon&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Comprehend&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Familiar SQL&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;language, no&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ML expertise&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Low-latency,&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;real-time&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Security &amp;amp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;governance&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2156.25" y="50" width="900" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-66" value="Cross Cutting" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-208.75" width="1272.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

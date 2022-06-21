@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T22:35:13.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 Safari/537.36 Edg/100.0.1185.57" etag="x41tvd7DL9AhLs7fKbPT" version="18.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-21T18:58:48.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 Safari/537.36 Edg/100.0.1185.57" etag="VA3jhwLJCr7kQ8VuJcGT" version="20.0.1" type="github" pages="4">
   <diagram id="uhJDiFjojeLYOvnc-QZb" name="RPT">
-    <mxGraphModel dx="4835" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2646" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,6 +471,14 @@
         <mxCell id="JZoeB1DcvZMCKMYnhMIe-2" value="When you Adjust for Time Zone you get a Match" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1770" y="660" width="180" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n-SZxM9EP6nlC5J-uv68" name="CDW to RPT">
+    <mxGraphModel dx="946" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

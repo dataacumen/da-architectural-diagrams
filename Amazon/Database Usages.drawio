@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T23:29:33.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="hXpOxHA7jrFzy7X9kyXy" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T23:30:06.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="5h1a9zJ7sfq7yfKoEcmH" version="20.0.3" type="github">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
     <mxGraphModel dx="4642" dy="4408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
           <mxGeometry x="755" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4cmEwU8dr92umeEJPiF7-21" value="Added for 2021. Content in the Cross Cutting section&amp;nbsp;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="-446" width="110.00000000000001" height="80" as="geometry" />
+          <mxGeometry x="610" y="-516" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4cmEwU8dr92umeEJPiF7-22" value="Data Lakes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="975" y="-610" width="120" height="60" as="geometry" />

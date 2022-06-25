@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T23:30:06.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="5h1a9zJ7sfq7yfKoEcmH" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T23:32:03.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="2I2ecbqicSGXM_xXc6Iw" version="20.0.3" type="github">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
-    <mxGraphModel dx="4642" dy="4408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4077" dy="4408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,29 +271,29 @@
         <mxCell id="4cmEwU8dr92umeEJPiF7-24" value="Machine Learning" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="1415" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4cmEwU8dr92umeEJPiF7-26" value="Athena: Interact Query&lt;br&gt;EMR: Big Data Processing&lt;br&gt;OpenSearch: Operational Analytics&lt;br&gt;Kinesis and MSK: Real-Time Analytics&lt;br&gt;RedShift: Data Warehousing&lt;br&gt;AWS: Glue: Data Integration" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="-810" width="185" height="170" as="geometry" />
+        <mxCell id="4cmEwU8dr92umeEJPiF7-26" value="Athena: Interact Query&lt;br&gt;EMR: Big Data Processing&lt;br&gt;OpenSearch: Operational Analytics&lt;br&gt;Kinesis and MSK: Real-Time Analytics&lt;br&gt;RedShift: Data Warehousing&lt;br&gt;AWS: Glue: Data Integration" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="1167" y="-810" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-2" value="EMR" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1195" y="-931" width="120" height="80" as="geometry" />
+          <mxGeometry x="1199.5" y="-931" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-3" value="Unstructured, Sparx, Hive, Presto." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="989" y="-1040" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-4" value="Open Serarch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1195" y="-1040" width="120" height="80" as="geometry" />
+          <mxGeometry x="1199.5" y="-1040" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-5" value="Log data, think Splunk. The successor to Elastic Search" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="1340" y="-1160" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-6" value="Kinessis" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1195" y="-1160" width="120" height="80" as="geometry" />
+          <mxGeometry x="1199.5" y="-1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-7" value="Streaming. If not this, Managed Streaming for Apache Kafka" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="989" y="-1280" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-8" value="RedShift" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1195" y="-1280" width="120" height="80" as="geometry" />
+          <mxGeometry x="1199.5" y="-1280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-9" value="Structured data. Cloud Data Warehouse." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="1340" y="-1400" width="185" height="170" as="geometry" />
@@ -302,7 +302,7 @@
           <mxGeometry x="989" y="-1520" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-11" value="Sans Server" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1195" y="-1410" width="120" height="80" as="geometry" />
+          <mxGeometry x="1199.5" y="-1410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Orvy0C3Wd5AqFQ3GKCwI-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2455" y="-454" width="120" height="100" as="geometry" />

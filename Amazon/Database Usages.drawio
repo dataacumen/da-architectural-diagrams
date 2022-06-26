@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T01:22:45.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="IFfsiGiyfXJvVx-jo06i" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T01:23:23.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="efBwNeU1A1WY9_BRTpEi" version="20.0.3" type="github">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
     <mxGraphModel dx="3483" dy="3352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-51" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2455" y="-264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Know pattern with boundless scale.&lt;br&gt;Fast flexible NOSQL database single digit millisecond performance at any scale." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Know pattern with boundless scale.&lt;br&gt;Fast flexible NOSQL database single digit millisecond performance at any scale.&lt;br&gt;89.2 million request per second." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-291" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-53" value="Zip Recruiter. Rich query experience over data set without knowing exact data set. Also, read heavy, replicate several for read and few for write 1:15 in this case." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">

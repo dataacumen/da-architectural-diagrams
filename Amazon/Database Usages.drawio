@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T01:21:24.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="au9tdkDWnMxjIyOZ-68S" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T01:22:45.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="IFfsiGiyfXJvVx-jo06i" version="20.0.3" type="github">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
     <mxGraphModel dx="3483" dy="3352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-51" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2455" y="-264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Know pattern with boundless scale." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Know pattern with boundless scale.&lt;br&gt;Fast flexible NOSQL database single digit millisecond performance at any scale." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-291" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-53" value="Zip Recruiter. Rich query experience over data set without knowing exact data set. Also, read heavy, replicate several for read and few for write 1:15 in this case." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
@@ -275,7 +275,7 @@
           <mxGeometry x="1040.5" y="-931" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-4" value="Open Serarch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1040.5" y="-1040" width="120" height="80" as="geometry" />
+          <mxGeometry x="1040.5" y="-1050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BReBIMm1SJ0LaS6OM2J-6" value="Kinesis" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1040.5" y="-1160" width="120" height="80" as="geometry" />
@@ -299,10 +299,10 @@
           <mxGeometry x="759" y="-941" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Orvy0C3Wd5AqFQ3GKCwI-4" value="Analyze and Visualize" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="759" y="-1080" width="120" height="100" as="geometry" />
+          <mxGeometry x="759" y="-1060" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Orvy0C3Wd5AqFQ3GKCwI-5" value="Perdict" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="759" y="-1220" width="120" height="100" as="geometry" />
+          <mxGeometry x="759" y="-1170" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Orvy0C3Wd5AqFQ3GKCwI-7" value="&lt;h1&gt;Modern End to End Data Strategy&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Modernize Data Infrastructure&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Do keep on site, but, do not self manage either.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Unify&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Get to the single source.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;Innovate&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;New processes, reimagine with AI.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Modernize&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;On premise and self managed is cost prohibitive.&lt;/li&gt;&lt;li&gt;Move to Managed DB Service. Amazon Aurora, MySQL and PostgreSQL compatible. 3x performance of Postgres at 1/10 the cost.&lt;/li&gt;&lt;li&gt;No worrying about under or over provisioning.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1300" y="-1800" width="774" height="520" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T19:12:30.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="qRJTgJUaEsaDRMyQninx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T19:19:03.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="Md3eHWEY6cSGbv_1hcEQ" version="20.0.4" type="github">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
     <mxGraphModel dx="5286" dy="4625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="riSc07GngYcpTW5A7G_t-15" value="60&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-1530" y="339" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-2" value="Not new but in a self service environment the level of entry is too much. Today, it has reached the database by virtue of services like Amazon RDS." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-2" value="Not new, but in a self-service environment the level of entry is too much. Today, it has reached the database by virtue of services like Amazon RDS." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-960" y="-121" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-3" value="History Lesson" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=24;fontStyle=1;" parent="1" vertex="1">
@@ -61,13 +61,13 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-4" value="Types of Database" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-380" y="409" width="1950" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-6" value="&lt;h1&gt;The Question&lt;/h1&gt;&lt;p&gt;Why are there so many database in the industry today? Start with the history lesson. General storage, general compute not longer works today, but Why? The Micro Service architecture. It is not longer abstract and demands the right tool for the right job.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-6" value="&lt;h1&gt;The Question&lt;/h1&gt;&lt;p&gt;Why are there so many databases in the industry today? Start with the history lesson. General storage, general compute no longer works today, but Why? The Micro Service architecture. It is no longer abstract and demands the right tool for the right job.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-1550" y="449" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-7" value="Relational" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-335" y="299" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-8" value="If you do not know all of the question you are going to ask but you want to make sure your responses are strongly consistent down to the data type, this works.&lt;br&gt;&lt;br&gt;Aurora, RDS, etc." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-8" value="If you do not know all the question you are going to ask, but you want to make sure your responses are strongly consistent down to the data type, this works.&lt;br&gt;&lt;br&gt;Aurora, RDS, etc." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-370" y="9" width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-9" value="&lt;h1&gt;The Next Question&lt;/h1&gt;&lt;p&gt;What is an easy way to come up with a data strategy? Do not try to do a line by line comparison and find one to rule them all. Think of the use case. The AWS strategy is simple, always work backward from what the customer is asking you to do and give you the best and fully managed API&#39;s.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;" parent="1" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-12" value="Document" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="105" y="299" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-13" value="Developers do not want to be a DBA, they do not want to predefined a schema, I want to create it on the fly as a JSON object and wan the DB to absorb it, document it, and let me get it back." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-13" value="Developers do not want to be a DBA, they do not want to predefine a schema, I want to create it on the fly as a JSON object and want the DB to absorb it, store it, and let me get it back." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="68" y="9" width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-14" value="Caching&lt;br style=&quot;font-size: 14px;&quot;&gt;(In Memory)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-20" value="Ledger" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="975" y="299" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-21" value="Once you write to it, you can never change it, and, I can prove it with cryptograph verifiability." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-21" value="Once you write to it, you can never change it, and, I can prove it with cryptography verification." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=0;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="943" y="9" width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-22" value="Primary Use Cases" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=24;fontStyle=1;" parent="1" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-51" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2455" y="-264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Know pattern with boundless scale.&lt;br&gt;Fast flexible NOSQL database single digit millisecond performance at any scale.&lt;br&gt;89.2 million request per second." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-52" value="Lyft. Gets and put based on know key, rider. Known pattern with boundless scale.&lt;br&gt;Fast flexible NoSQL database single digit millisecond performance at any scale.&lt;br&gt;89.2 million request per second." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-291" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-53" value="Zip Recruiter. Rich query experience over data set without knowing exact data set. Also, read heavy, replicate several for read and few for write 1:15 in this case." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
@@ -193,7 +193,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-54" value="Liberty Mutual. You do not know all of your schema up front. You do not know all the features and how they will evolve. Allows you to move quickly. Use JSON to store assets, policy, and customers that change over time. But I can still query across my documents." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry y="-291" width="185" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-55" value="Ubisoft. In-Memory is optimized for latency over readability. When you need something as fast as can be. Think about Just Dance. The latency needs to be as low as possible. Redis Sorted Set works for this." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-55" value="Ubisoft. In-Memory is optimized for latency over readability. When you need something, as fast as can be. Think about Just Dance. The latency needs to be as low as possible. Redis Sorted Set works for this." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="220" y="-291" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-56" value="Nike. How is this different from relational? You can query on connections between nouns; Customers and Athletes. Very efficient in detecting access patterns." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
@@ -220,7 +220,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-66" value="Cross Cutting" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=16;fontStyle=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="2015" y="-104.75" width="1462.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="POyqfq9mjfBXwKInOslB-1" value="&lt;b&gt;AmazonRDS&lt;/b&gt;: MySQL, MariaDB, PostgreSQL, Oracle, SQL Server.&lt;br&gt;&lt;br&gt;&lt;b&gt;Amazon Aurora&lt;/b&gt;:&amp;nbsp;Commercial grade at 1/10th of the cost. Full MySQL and PostgreSQL compatibility." style="shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;align=center;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="POyqfq9mjfBXwKInOslB-1" value="&lt;b&gt;Amazon RDS&lt;/b&gt;: MySQL, MariaDB, PostgreSQL, Oracle, SQL Server.&lt;br&gt;&lt;br&gt;&lt;b&gt;Amazon Aurora&lt;/b&gt;:&amp;nbsp;Commercial grade at 1/10th of the cost. Full MySQL and PostgreSQL compatibility." style="shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;align=center;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-491" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4cmEwU8dr92umeEJPiF7-1" value="Wide Column" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
@@ -302,7 +302,7 @@
           <mxGeometry x="350" y="-650" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Orvy0C3Wd5AqFQ3GKCwI-9" value="Shawn Bice, VP of databases" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="380" width="110.00000000000001" height="80" as="geometry" />
+          <mxGeometry x="-540" y="384" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Orvy0C3Wd5AqFQ3GKCwI-10" value="Infrequent Access&lt;br&gt;Cost effective. High availability and performance, but, static&lt;br&gt;&lt;br&gt;RDS Custom&lt;br&gt;A managed service for Oracle and SQL Server (SharePoint and Dynamics too)&lt;br&gt;&lt;br&gt;AWS Migration Service&lt;br&gt;Over 500K migrations. Now, Fleet Advisor cuts things down from months to day. Give you a recommendation based on current state." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="501" y="-2420" width="185" height="610" as="geometry" />

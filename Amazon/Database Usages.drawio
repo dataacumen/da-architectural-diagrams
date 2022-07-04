@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T16:59:59.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="WaWUe6jH5SALR0eYj-CX" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T19:12:30.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="qRJTgJUaEsaDRMyQninx" version="20.0.4" type="github">
   <diagram id="X1MJN3qtvDcAVVU4l8F2" name="AWS">
-    <mxGraphModel dx="3366" dy="4625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5286" dy="4625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SgeMdMJ2xx6icJL8kcm2-1" value="This persisted for 30 years with this sort of 1:1 relationship between application and database. During this time, it was all relational and there were only 3 vendors." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="SgeMdMJ2xx6icJL8kcm2-1" value="This persisted for 30 years, with this sort of 1:1 relationship between application and database. During this time, it was all relational and there were only 3 vendors." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-1310" y="-121" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="riSc07GngYcpTW5A7G_t-1" value="Mainframe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
@@ -190,7 +190,7 @@
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-53" value="Zip Recruiter. Rich query experience over data set without knowing exact data set. Also, read heavy, replicate several for read and few for write 1:15 in this case." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-291" width="185" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="B_Nzh_ApMPtOPggLuBHz-54" value="Liberty Mutual. You do not know all of your schema up front. you do not know all of the features and how they will evolve. Allows you to move quickly. Use JSON to store assets, policy, and customers that change over time. But I can still query across my documents." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+        <mxCell id="B_Nzh_ApMPtOPggLuBHz-54" value="Liberty Mutual. You do not know all of your schema up front. You do not know all the features and how they will evolve. Allows you to move quickly. Use JSON to store assets, policy, and customers that change over time. But I can still query across my documents." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry y="-291" width="185" height="170" as="geometry" />
         </mxCell>
         <mxCell id="B_Nzh_ApMPtOPggLuBHz-55" value="Ubisoft. In-Memory is optimized for latency over readability. When you need something as fast as can be. Think about Just Dance. The latency needs to be as low as possible. Redis Sorted Set works for this." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;flipH=1;flipV=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
